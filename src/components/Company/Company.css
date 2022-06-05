@@ -1,0 +1,9 @@
+
+@media only screen and (max-width: 500px) {
+    .comp-logo{
+        flex-direction: column;
+    }
+    .comp-img{
+        align-items: center;
+    }
+  }
